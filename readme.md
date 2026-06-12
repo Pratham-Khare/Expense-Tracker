@@ -182,19 +182,6 @@ GET /dashboard
 ```
 
 ---
-
-## Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Dashboard
-- Income Page
-- Expense Page
-- Profile Page
-
----
-
 ## Author
 
 **Pratham**
